@@ -1,0 +1,77 @@
+.container{
+    margin-bottom: 70px;
+}
+
+.nav-logo{
+    padding: 30px;
+    margin: 0 100px;
+}
+
+
+#nav2{
+    color: rgb(168, 161, 161);
+    size: 50px;
+}
+
+.nav-ul{
+    color: orangered;
+}
+
+.buy-button{
+    color: #FFF;
+    background-color: black;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 12px;
+}
+
+.crad-padding{
+    padding: 60px;
+    border-radius: 15px;
+}
+
+.carousel-item{
+    padding: 40px;
+}
+
+.card-footer{
+    border: none;
+    background-color: #FFF;
+}
+   
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.line{
+    color: brown;
+    width: 120px;
+    border: 4px solid orange;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    
+}
+
+#see{
+    color: orange;
+}
+
+.logo-shedo{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.fast-shedo{
+    margin-top: 50px;
+}
+
+.logofairst{
+    margin-top: 100px;
+}
